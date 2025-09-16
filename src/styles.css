@@ -1,0 +1,36 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background: #0d0d2b;
+  color: white;
+  text-align: center;
+}
+
+.navbar {
+  display: flex;
+  gap: 1rem;
+  justify-content: center;
+  background: #1a1a40;
+  padding: 1rem;
+}
+
+.navbar a {
+  color: #f0dbff;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.page {
+  margin: 2rem;
+}
+
+.back-btn {
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  background: #4cafef;
+  border: none;
+  color: white;
+  cursor: pointer;
+  border-radius: 5px;
+}
